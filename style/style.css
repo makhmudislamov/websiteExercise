@@ -1,0 +1,33 @@
+#car {
+    border-radius: 8px;
+}
+
+.nav {
+background-color: black;
+margin: 50px;
+padding: 70px;
+}
+
+li {
+  background-color: red;
+  display: inline;
+  padding: 50px;
+}
+
+.box {
+  float: left;
+  width: 50%
+}
+
+#enzo {
+  border-radius: 50%;
+  border: solid;
+  margin: auto;
+}
+
+p {
+  background-color: blue;
+  border-style: dotted;
+  margin: 30px;
+  padding: 60px;
+}
